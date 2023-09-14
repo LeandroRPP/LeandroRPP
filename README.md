@@ -20,6 +20,7 @@ Tenho 21 anos, moro em Campinas/SP e estou entrando nesse universo da programaç
 </br>
 
 ### 🖥️ Linguagens e Tecnologias que estou praticando:
+<img width="350px" align="right" src="octocat.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -36,7 +37,8 @@ Tenho 21 anos, moro em Campinas/SP e estou entrando nesse universo da programaç
  <p align="left">🕹️ Gosto de jogar no meu tempo livre, ler alguns livros e já disse que gosto de café?</p>
 </div>
 </br>
-</br>
+📫 Você pode falar comigo pelo Instagram ou pelo Twitter
+</br></br></br></br></br>
 <div>
 <a href="https://github.com/LeandroRPP">
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=LeandroRPP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
