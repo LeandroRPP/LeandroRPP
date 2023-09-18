@@ -14,7 +14,7 @@
 </div>
 </br>
 
-## Eai, beleza!!
+## Hello!!
 
 I'm 21 years old, live in Campinas/SP - Brazil. I'm entering in this world of programming. Big challengs are coming and I'm ready to face them!(at least until coffee runs out)!  🙌
 </br>
