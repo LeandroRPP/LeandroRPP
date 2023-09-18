@@ -16,10 +16,10 @@
 
 ## Eai, beleza!!
 
-Tenho 21 anos, moro em Campinas/SP e estou entrando nesse universo da programação. Grandes desafios estão por vir e estou disposto a enfrentá-los (ou pelo menos até o café acabar)!  🙌
+I'm 21 years old, live in Campinas/SP - Brazil. I'm entering in this world of programming. Big challengs are coming and I'm ready to face them!(at least until coffee runs out)!  🙌
 </br>
 
-### 🖥️ Linguagens e Tecnologias que estou praticando:
+### 🖥️ Languages and Technologies that i'm practicing:
 <img width="350px" align="right" src="octocat.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
@@ -31,13 +31,13 @@ Tenho 21 anos, moro em Campinas/SP e estou entrando nesse universo da programaç
 </br>
 </br>
 <div display="inline-block">
- <p align="left">☕ Sem café, sem código;</p>
- <p align="left">📚 Estou estudando JavaScript para aprofundar meus estudos do Front-End;</p>
- <p align="left">📷 Compartilho minhas experiências e projetos aqui no Github e no meu Linkedin!</p>
- <p align="left">🕹️ Gosto de jogar no meu tempo livre, ler alguns livros e já disse que gosto de café?</p>
+ <p align="left">☕ No coffee, no code;</p>
+ <p align="left">📚 I'm studying JavaScript to deepen my knowledge of Front-end;</p>
+ <p align="left">📷 I share my experiences and projects here on Github and LinkedIn!</p>
+ <p align="left">🕹️ I like to play in my free time, read some books and news about Technologies. Did I mention that I like coffee?</p>
 </div>
 </br>
-📫 Você pode falar comigo pelo Instagram ou pelo Twitter
+📫 You can message me on Instagram or LinkedIn
 </br></br></br></br></br>
 <div>
 <a href="https://github.com/LeandroRPP">
