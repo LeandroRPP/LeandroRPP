@@ -16,7 +16,7 @@
 
 ## Hello!!
 
-I'm 21 years old, live in Campinas/SP - Brazil. I'm entering in this world of programming. Big challengs are coming and I'm ready to face them!(at least until coffee runs out)!  🙌
+I'm 21 years old, live in Campinas/SP - Brazil. I'm entering in this world of programming. Big challenges are coming and I'm ready to face them!(at least until coffee runs out)!  🙌
 </br>
 
 ### 🖥️ Languages and Technologies that i'm practicing:
@@ -34,7 +34,7 @@ I'm 21 years old, live in Campinas/SP - Brazil. I'm entering in this world of pr
  <p align="left">☕ No coffee, no code;</p>
  <p align="left">📚 I'm studying JavaScript to deepen my knowledge of Front-end;</p>
  <p align="left">📷 I share my experiences and projects here on Github and LinkedIn!</p>
- <p align="left">🕹️ I like to play in my free time, read some books and news about Technologies. Did I mention that I like coffee?</p>
+ <p align="left">🕹️ I like to play games in my free time, read some books and news about Technologies. Did I mention that I like coffee?</p>
 </div>
 </br>
 📫 You can message me on Instagram or LinkedIn
